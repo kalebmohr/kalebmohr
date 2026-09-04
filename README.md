@@ -25,7 +25,7 @@ Senior IT Infrastructure & Network Engineer based in Virginia, specializing in C
 
 ---
 
-### 🎯 2026–2028 Platform Engineering Roadmap
+### 🎯 2026–2028 Network, Cloud, and Platform Engineering Roadmap
 
 I am systematically expanding my enterprise networking background into Cloud Platform Engineering & Infrastructure as Code. Track my lab builds and commits across these phases:
 
