@@ -1,6 +1,6 @@
 # Hi, I'm Kaleb Mohr! 👋
 
-Senior IT Infrastructure & Network Engineer based in Virginia, specializing in Cloud Transit, Zero Trust, NetDevOps, and Platform Automation.
+Senior IT Infrastructure & Network Engineer based in Virginia, specializing in Cloud Transit, Zero Trust, NetDevOps, and Platform Automation. Currently working towards becoming the go-to engineer to bridge the gap between enterprise network design, cloud architecture, and application connectivity through highly scalable, automated deployment pipelines.
 
 ---
 
