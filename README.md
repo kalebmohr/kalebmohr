@@ -1,40 +1,39 @@
 # Hi, I'm Kaleb Mohr! 👋
 
-Senior IT Infrastructure & Network Engineer based in Virginia, specializing in Cloud Transit, Zero Trust, NetDevOps, and Platform Automation. Currently working towards becoming the go-to engineer to bridge the gap between enterprise network design, cloud architecture, and application connectivity through highly scalable, automated deployment pipelines.
+Multi-Cloud Network Automation & Platform Engineer based in Virginia, specializing in Enterprise Networking, Hybrid Cloud Transit, Infrastructure as Code, NetDevOps, and Zero Trust architectures.
+
+I specialize in treating the enterprise network as a programmable platform—bridging the gap between physical on-premises infrastructure, edge security, and multi-cloud environments (Azure & AWS) using Python, REST APIs, and Terraform.
 
 ---
 
 ### 🛠️ Technical Competencies
 
-- **Enterprise Networking & SD-WAN:** Cisco Meraki, Cisco Catalyst Center (DNA Center), Routing & Switching (OSPF, BGP, VLANs), Enterprise Wireless
-- **Zero Trust & Edge Security:** Zscaler (ZPA & ZIA), Palo Alto Networks (NGFWs & Panorama), Cloudflare (Secure DNS, WAF, Proxying)
-- **IPAM & Infrastructure Services:** Infoblox DDI (IPAM, DNS, DHCP)
-- **Cloud Architecture:** Microsoft Azure (VNets, ExpressRoute, Compute, Storage), AWS Basics
-- **NetDevOps & Tooling:** Python, REST APIs, Postman, Git, Linux/Bash CLI
-- **Observability & Telemetry:** LogicMonitor, Cisco ThousandEyes, Rapid7
+* **Multi-Cloud Networking & Security:** Microsoft Azure (VNets, Peerings, Route Tables, NVAs, Azure Firewalls, ExpressRoute), AWS (VPCs, Transit Gateways, Route 53, Direct Connect).
+* **Network Automation & IaC:** Python (`requests`/REST APIs), Terraform IaC, Git/GitHub, CI/CD Workflows, Postman, Linux/Bash CLI.
+* **Enterprise Infrastructure & Zero Trust:** Cisco Meraki, Cisco Catalyst 9k, Palo Alto Networks (NGFWs & Panorama), Zscaler (ZPA/ZIA), Cloudflare, BGP, OSPF, VRFs, Infoblox DDI.
+* **Observability & Telemetry:** Auvik, LogicMonitor, Syslog, SNMP, NetFlow, Custom ServiceNow Webhook Integrations.
 
 ---
 
 ### 📜 Certifications & Credentials
 
-- **Cisco:** CCNA x3 (Networking, Cybersecurity, Automation / DevNet track)
-- **Microsoft:** Azure Administrator Associate (AZ-104), Azure Fundamentals (AZ-900)
-- **AWS:** AWS Certified Cloud Practitioner
-- **CompTIA & Linux:** CompTIA Network+, CompTIA A+, Linux Essentials
-- **Specialized:** Hurricane Electric IPv6 Certification (Sage Level)
+* **Microsoft:** Azure Network Engineer Associate (AZ-700) *(Active Target)*, Azure Administrator Associate (AZ-104), Azure Fundamentals (AZ-900)
+* **Cisco:** CCNA (200-301), CCNA Automation (200-901), CCNA Cybersecurity (200-201)
+* **CompTIA & Linux:** CompTIA Network+, CompTIA A+, Linux Essentials
+* **Specialized:** Hurricane Electric IPv6 Certification (Sage Level)
 
 ---
 
-### 🎯 2026–2028 Network, Cloud, and Platform Engineering Roadmap
+### 🎯 Multi-Cloud Platform Engineering Roadmap
 
-I am systematically expanding my enterprise networking background into Cloud Platform Engineering & Infrastructure as Code. Track my lab builds and commits across these phases:
+My continuous learning track focuses on scaling network architecture across multi-cloud environments using code and automation. Track my commits and lab projects across these active phases:
 
-- [x] **Core Foundation:** 4 Years IT / Network Engineering (Enterprise Routing, Zero Trust, DDI)
-- [ ] 🟡 **Phase 1 (In Progress):** Azure Network Architecture & Hybrid Cloud (AZ-700)
-- [ ] ⚪ **Phase 2:** CCNP Enterprise (ENCOR + ENAUTO) & Advanced Python Automation
-- [ ] ⚪ **Phase 3:** Declarative Multi-Cloud Infrastructure as Code (HashiCorp Terraform)
-- [ ] ⚪ **Phase 4:** Cloud-Native Container Platforms (CKA / Kubernetes)
-- [ ] ⚪ **Phase 5:** GitOps, CI/CD Pipelines & Cloud Transit Architectures
+* **Phase 1 (Active):** Azure Network Architecture & Hybrid Cloud Connectivity (`AZ-700`)
+* **Phase 2:** Declarative Multi-Cloud Infrastructure as Code (`HashiCorp Terraform Associate`)
+* **Phase 3:** Enterprise Network Automation & Core Architecture (`CCNP ENCOR 350-401` + `CCNP ENAUTO 300-435`)
+* **Phase 4:** AWS Cloud Architecture & Hybrid Transit (`AWS Certified Solutions Architect – Associate`)
+* **Phase 5:** Cloud-Native Container Networking & Microservices (`CKA / Certified Kubernetes Administrator`)
 
 ---
-📫 *Building resilient, automated platform infrastructure for enterprise cloud environments.*
+
+📫 *Building resilient, automated network infrastructure for modern multi-cloud environments.*
