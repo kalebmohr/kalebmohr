@@ -1,6 +1,6 @@
 # Hi, I'm Kaleb Mohr! 👋
 
-Multi-Cloud Network Automation & Platform Engineer based in Virginia, specializing in Enterprise Networking, Hybrid Cloud Transit, Infrastructure as Code, NetDevOps, and Zero Trust architectures.
+Cloud Networking & Automation Engineer based in Virginia, specializing in Enterprise Networking, Hybrid Cloud Transit, Infrastructure as Code, NetDevOps, and Zero Trust architectures.
 
 I specialize in treating the enterprise network as a programmable platform—bridging the gap between physical on-premises infrastructure, edge security, and multi-cloud environments (Azure & AWS) using Python, REST APIs, and Terraform.
 
@@ -24,7 +24,7 @@ I specialize in treating the enterprise network as a programmable platform—bri
 
 ---
 
-### 🎯 Multi-Cloud Platform Engineering Roadmap
+### 🎯 Multi-Cloud Networking & Automation Roadmap
 
 My continuous learning track focuses on scaling network architecture across multi-cloud environments using code and automation. Track my commits and lab projects across these active phases:
 
