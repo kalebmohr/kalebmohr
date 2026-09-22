@@ -11,7 +11,7 @@ I treat enterprise networking as a programmable platform—bridging the gap betw
 
 * **Cloud Networking & Perimeter Security:** Microsoft Azure (VNets, VNet Peering, Route Tables/UDRs, NVAs, Azure Firewalls, ExpressRoute), AWS (VPCs, Transit Gateways, Direct Connect).
 * **Network Automation & Infrastructure as Code:** Python (`requests`/REST APIs), Terraform, Bicep, Git/GitHub, CI/CD Workflows, Linux/Bash.
-* **Enterprise Infrastructure & Zero Trust:** Cisco Meraki, Cisco Catalyst 9000, Palo Alto Networks (NGFWs), Zscaler (ZPA/ZIA), Cloudflare Proxying, BGP, OSPF, VRFs, Infoblox DDI.
+* **Enterprise Infrastructure & Zero Trust:** Cisco Meraki, Cisco Catalyst, Palo Alto Networks (NGFWs), Zscaler (ZPA/ZIA), Cloudflare Proxying, BGP, OSPF, VRFs, Infoblox DDI.
 * **Observability & Operations:** Auvik, LogicMonitor, Syslog, SNMP, NetFlow, Custom ServiceNow Webhook Automation.
 
 ---
